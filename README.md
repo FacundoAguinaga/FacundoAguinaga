@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Facundo 👋
 
-<!--
-**FacundoAguinaga/FacundoAguinaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la **lógica de programación** y la **expresión creativa**.
 
-Here are some ideas to get you started:
+Mi enfoque principal está en **Python** y el motor de videojuegos **Godot**. Me especializo en diseñar flujos de trabajo eficientes, buscando siempre la mejor manera de integrar mis herramientas digitales en un ecosistema unificado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills & Stack
+
+* 🐍 **Core:** `Python` | `GDScript`
+* ⚡ **Enfoque Técnico:**
+    * Automatización de procesos y Scripting.
+    * Integración de entornos multiplataforma (Sincronización de flujos de trabajo).
+    * Herramientas de Productividad y Organización.
+* 🎮 **Game Dev:** Desarrollo de mecánicas y sistemas en **Godot Engine**.
+
+---
+
+### 🎹 Beyond Code
+
+* 🎵 **Música:** Producción musical y composición.
+* 🎹 **Instrumento:** Piano.
+* 🏃 **Actividad:** Deporte y vida activa.
+
+---
+
+
+[Link a tu Portfolio o Contacto si tienes]
