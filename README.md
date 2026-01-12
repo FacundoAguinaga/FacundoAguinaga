@@ -22,8 +22,3 @@ Mi enfoque principal está en **Python** y el motor de videojuegos **Godot**. Me
 * 🎵 **Música:** Producción musical y composición.
 * 🎹 **Instrumento:** Piano.
 * 🏃 **Actividad:** Deporte y vida activa.
-
----
-
-
-[Link a tu Portfolio o Contacto si tienes]
