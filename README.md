@@ -1,24 +1,38 @@
 # Hola, soy Facundo 👋
 
-Soy un desarrollador apasionado por la **lógica de programación** y la **expresión creativa**.
+Soy un desarrollador de software interesado en la **arquitectura de sistemas**, el desarrollo multiplataforma y la creación de soluciones eficientes y escalables.
 
-Mi enfoque principal está en **Python** y el motor de videojuegos **Godot**. Me especializo en diseñar flujos de trabajo eficientes, buscando siempre la mejor manera de integrar mis herramientas digitales en un ecosistema unificado.
+Me interesa diseñar sistemas que integren distintas tecnologías, desde aplicaciones móviles y plataformas web hasta herramientas de automatización y software de bajo nivel. Disfruto explorar cómo funcionan las cosas internamente, experimentar con nuevas tecnologías y encontrar soluciones prácticas a problemas complejos.
 
 ---
 
-### 🛠 Skills & Stack
+### 🛠️ Skills & Tech Stack
 
-* 🐍 **Core:** `Python` | `GDScript`
-* ⚡ **Enfoque Técnico:**
-    * Automatización de procesos y Scripting.
-    * Integración de entornos multiplataforma (Sincronización de flujos de trabajo).
-    * Herramientas de Productividad y Organización.
-* 🎮 **Game Dev:** Desarrollo de mecánicas y sistemas en **Godot Engine**.
+* **💻 Languages:** `Python` · `GDScript` · `JavaScript`
+* **📱 Mobile Development:** Desarrollo de aplicaciones e integración multiplataforma.
+* **🌐 Web Development:** Desarrollo de aplicaciones web, servicios e integración de APIs.
+* **🏗️ Systems & Architecture:** Diseño de sistemas, modularidad, interoperabilidad y optimización.
+* **⚙️ Automation & Tooling:** Scripting, automatización de procesos y desarrollo de herramientas.
+* **🎮 Game Development:** Desarrollo de sistemas y mecánicas con Godot Engine.
+
+---
+
+### 🔬 Areas of Interest
+
+* Arquitectura de software y diseño de sistemas.
+* Portabilidad de software y compatibilidad entre plataformas.
+* Desarrollo nativo y multiplataforma para Android.
+* Ingeniería inversa, recompilación y análisis de software.
+* Optimización, automatización y herramientas para desarrolladores.
 
 ---
 
 ### 🎹 Beyond Code
 
-* 🎵 **Música:** Producción musical y composición.
-* 🎹 **Instrumento:** Piano.
-* 🏃 **Actividad:** Deporte y vida activa.
+* 🎵 **Music:** Producción musical y composición.
+* 🎹 **Instrument:** Piano.
+* 🏃 **Lifestyle:** Deporte y vida activa.
+
+---
+
+*Always learning, building, and exploring new technologies.*
